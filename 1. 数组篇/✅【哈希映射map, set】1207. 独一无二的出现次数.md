@@ -1,4 +1,4 @@
-## [1207. 独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/)
+### [1207. 独一无二的出现次数](https://leetcode.cn/problems/unique-number-of-occurrences/description/)
 
 ### 思路：
 map可以很容易统计不同数字的数量，set可以把相同数量合并
