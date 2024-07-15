@@ -43,7 +43,7 @@
 
 - [x] 1-7. [数组总结](https://programmercarl.com/%E6%95%B0%E7%BB%84%E6%80%BB%E7%BB%93%E7%AF%87.html)
 
-**补充题** 7.14(1.8-1.17)
+**补充题  7.14✅** 
 
 - [x] 1-8. [1365.有多少小于当前数字的数字](https://programmercarl.com/1365.%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%95%B0%E5%AD%97.html)
 
@@ -63,27 +63,27 @@
 
 - [x] 1-17. [35.搜索插入位置](https://programmercarl.com/0035.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.html)
 
-**相关题目推荐**
+**相关题目推荐  7.15✅**
 
 **1-2 二分查找 相关推荐**
 
-- [ ] 1-18. [35.搜索插入位置](https://programmercarl.com/0035.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.html)
+- [x] 1-18. [35.搜索插入位置](https://programmercarl.com/0035.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.html)
 
-- [ ] 1-19. [34.在排序数组中查找元素的第一个和最后一个位置](https://programmercarl.com/0034.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.html)
+- [x] 1-19. [34.在排序数组中查找元素的第一个和最后一个位置](https://programmercarl.com/0034.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.html)
 
-- [ ] 1-20. [69.x 的平方根](https://leetcode.cn/problems/sqrtx/)
+- [x] 1-20. [69.x 的平方根](https://leetcode.cn/problems/sqrtx/)
 
-- [ ] 1-21. [367.有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
+- [x] 1-21. [367.有效的完全平方数](https://leetcode.cn/problems/valid-perfect-square/)
       
 **1-3 移除元素 相关推荐**
 
-- [ ] 1-22. [26.删除排序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
+- [x] 1-22. [26.删除排序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
       
-- [ ] 1.23. [283.移动零](https://leetcode.cn/problems/move-zeroes/)
+- [x] 1.23. [283.移动零](https://leetcode.cn/problems/move-zeroes/)
 
-- [ ] 1-24. [844.比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)
+- [x] 1-24. [844.比较含退格的字符串](https://leetcode.cn/problems/backspace-string-compare/)
     
-- [ ] 1-25. [977.有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)
+- [x] 1-25. [977.有序数组的平方](https://leetcode.cn/problems/squares-of-a-sorted-array/)
 
 **1-5 长度最小的子数组 相关推荐**
 
@@ -93,9 +93,9 @@
 
 **1-6 螺旋矩阵II 相关推荐**
 
-- [ ] 1-28. [54.螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
+- [x] 1-28. [54.螺旋矩阵](https://leetcode.cn/problems/spiral-matrix/)
       
-- [ ] 1-29. [剑指Offer 29.顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
+- [x] 1-29. [剑指Offer 29.顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)
       
 
 ### 2. 链表篇（9题 + 5题）
