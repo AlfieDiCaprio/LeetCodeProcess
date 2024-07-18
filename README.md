@@ -37,7 +37,7 @@
 
 - [x] 1-4. [数组：977.有序数组的平方](https://programmercarl.com/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.html)    
 
-- [x] 1-5. [数组：209.长度最小的子数组](https://programmercarl.com/0209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.html)
+- [ ] 1-5. [数组：209.长度最小的子数组](https://programmercarl.com/0209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.html)
 
 - [x] 1-6. [数组：59.螺旋矩阵II](https://programmercarl.com/0059.%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5II.html)
 
@@ -131,6 +131,18 @@
 - [x] 2-14. [160.相交链表](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E9%9D%A2%E8%AF%95%E9%A2%9802.07.%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
 
 - [x] 2-15. [876. 链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/description/)
+
+- [x] 2-16. [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/description/?envType=study-plan-v2&envId=top-100-liked)
+
+- [x] 2-17. [143. 重排链表](https://leetcode.cn/problems/reorder-list/description/)(需二刷）
+
+- [x] 2-18. [2. 两数相加](https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-100-liked)(需二刷）
+
+- [ ] 2-19. [146. LRU 缓存](https://leetcode.cn/problems/lru-cache/description/?envType=study-plan-v2&envId=top-100-liked)
+
+- [ ] 2-20. [138. 随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-100-liked)
+
+- [ ] 2-21. [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-100-liked)
 
 
 ### 3. 哈希表篇（11题 + 1题 + 4题）
