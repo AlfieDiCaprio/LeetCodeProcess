@@ -1,4 +1,9 @@
 # 跟着代码随想录刷LC（研二下自救）
+LeetCode Hot100：**[LeetCode Hot100](https://leetcode.cn/studyplan/top-100-liked/)**, 代码随想录：**[代码随想录](https://github.com/youngyangyang04/leetcode-master)**, 面试经典 150 题：**[面试经典 150 题](https://leetcode.cn/studyplan/top-interview-150/)**, 灵神题单
+
+剑指Offer：**[剑指Offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)**，华为机试ACM模式：**[华为机试](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=37&type=37)**
+
+SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=341&type=341)**
 
 ## 数据结构与算法
 #### 1. 数组篇（7+9+12=28题）Timeline：7.14-7.15
@@ -145,47 +150,47 @@
 - [ ] 2-21. [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-100-liked)
 
 
-### 3. 哈希表篇（11题 + 1题 + 4题）
+### 3. 哈希表篇（11题 + 1题 + 4题） 7.20 ✅
 
-- [ ] 3-1. [关于哈希表，你该了解这些！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%93%88%E5%B8%8C%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
+- [x] 3-1. [关于哈希表，你该了解这些！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%93%88%E5%B8%8C%E8%A1%A8%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
    
-- [ ] 3-2. [哈希表：242.有效的字母异位词](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+- [x] 3-2. [哈希表：242.有效的字母异位词](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
    
 - [ ] 3-3. [哈希表：1002.查找常用字符](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1002.%E6%9F%A5%E6%89%BE%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6.md)
    
-- [ ] 3-4. [哈希表：349.两个数组的交集](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
+- [x] 3-4. [哈希表：349.两个数组的交集](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
    
-- [ ] 3-5. [哈希表：202.快乐数](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.%E5%BF%AB%E4%B9%90%E6%95%B0.md)
+- [x] 3-5. [哈希表：202.快乐数](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.%E5%BF%AB%E4%B9%90%E6%95%B0.md)【unordered_set 判断sum是否存在过】
     
-- [ ] 3-6. [哈希表：1.两数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [x] 3-6. [哈希表：1.两数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)【map<diff, idx>】
     
-- [ ] 3-7. [哈希表：454.四数相加II](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0454.%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II.md)
+- [x] 3-7. [哈希表：454.四数相加II](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0454.%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0II.md)【map, 两两一组, mp[-c-d]判断】
     
-- [ ] 3-8. [哈希表：383.赎金信](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.md)
+- [x] 3-8. [哈希表：383.赎金信](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.md)【mp, easy】
     
-- [ ] 3-9. [哈希表：15.三数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [x] 3-9. [哈希表：15.三数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)【双指针, 固定k, 双指针i, j】
     
-- [ ] 3-10. [双指针法：18.四数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [x] 3-10. [双指针法：18.四数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)【双指针, 固定k,p, 双指针i, j】
     
 - [ ] 3-11. [哈希表：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%93%88%E5%B8%8C%E8%A1%A8%E6%80%BB%E7%BB%93.md)
     
 **补充题**
 
-- [ ] 3-12. （哈希表的应用）[205.同构字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [x] 3-12. （哈希表的应用）[205.同构字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)【mp, 互相映射】
 
 **相关题目推荐**
 
 **3-2 有效的字母异位词 相关推荐**
 
-- [ ] 3-13. [383.赎金信](https://programmercarl.com/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.html)
+- [x] 3-13. [383.赎金信](https://programmercarl.com/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.html)
       
-- [ ] 3-14. [49.字母异位词分组](https://leetcode.cn/problems/group-anagrams/)
+- [x] 3-14. [49.字母异位词分组](https://leetcode.cn/problems/group-anagrams/)
       
-- [ ] 3-15. [438.找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)
+- [ ] 3-15. [438.找到字符串中所有字母异位词](https://leetcode.cn/problems/find-all-anagrams-in-a-string/)【[滑动窗口问题](https://leetcode.cn/problems/find-all-anagrams-in-a-string/solutions/9749/hua-dong-chuang-kou-tong-yong-si-xiang-jie-jue-zi-/)】
 
 **3-4 两个数组的交集 相关推荐**
 
-- [ ] 3-16. [350.两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)
+- [x] 3-16. [350.两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)【unordered_map, easy】
 
 
 ### 4. 字符串（8题 + 2题）
