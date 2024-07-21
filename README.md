@@ -6,10 +6,10 @@ LeetCode Hot100：**[LeetCode Hot100](https://leetcode.cn/studyplan/top-100-like
 SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=341&type=341)**
 
 ## 数据结构与算法
-#### 1. 数组篇（7+9+12=28题）Timeline：7.14-7.15
-#### 2. 链表篇（9+5=14题）Timeline：7.16-7.17
-#### 3. 哈希表篇（11+1+4=16题）Timeline：7.18-7.19
-#### 4. 字符串篇（8+2=10题）Timeline：7.20-7.21
+#### 1. 数组篇（7+9+12=28题）Timeline：7.14-7.15 ✅
+#### 2. 链表篇（9+5=14题）Timeline：7.16-7.17 ✅
+#### 3. 哈希表篇（11+1+4=16题）Timeline：7.18-7.19 ✅
+#### 4. 字符串篇（8+2=10题）Timeline：7.20-7.21✅
 #### 5. 双指针法篇（11题）Timeline：7.22
 ####  6. 栈与队列篇（9题）Timeline：7.24-7.25
 #### 7. 二叉树篇（35+4=39题）Timeline：7.26-7.29
@@ -193,27 +193,27 @@ SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1
 - [x] 3-16. [350.两个数组的交集 II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/)【unordered_map, easy】
 
 
-### 4. 字符串（8题 + 2题）
+### 4. 字符串（8题 + 2题）7.21✅
 
-- [ ] 4-1. [字符串：344.反转字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [x] 4-1. [字符串：344.反转字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)【双指针】
       
-- [ ] 4-2. [字符串：541.反转字符串II](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0541.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2II.md)
+- [x] 4-2. [字符串：541.反转字符串II](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0541.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2II.md)【i+2k, reverse】
       
-- [ ] 4-3. [字符串：替换数字](https://programmercarl.com/kamacoder/0054.%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97.html#)
+- [x] 4-3. [字符串：替换数字](https://programmercarl.com/kamacoder/0054.%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97.html#)
       
-- [ ] 4-4. [字符串：151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md)
+- [x] 4-4. [字符串：151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md)
       
-- [ ] 4-5. [字符串：右旋字符串](https://programmercarl.com/kamacoder/0055.%E5%8F%B3%E6%97%8B%E5%AD%97%E7%AC%A6%E4%B8%B2.html)
+- [x] 4-5. [字符串：右旋字符串](https://programmercarl.com/kamacoder/0055.%E5%8F%B3%E6%97%8B%E5%AD%97%E7%AC%A6%E4%B8%B2.html)
       
 - [ ] 4-6. [帮你把KMP算法学个通透](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0028.%E5%AE%9E%E7%8E%B0strStr.md)
       
 - [ ] 4-7. [字符串：459.重复的子字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0459.%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
       
-- [ ] 4-8. [字符串：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%80%BB%E7%BB%93.md)
+- [x] 4-8. [字符串：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%80%BB%E7%BB%93.md)
 
 **补充题**
 
-- [ ] 4-9.（模拟匹配）[925.长按键入](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0925.%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5.md) 
+- [x] 4-9.（模拟匹配）[925.长按键入](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0925.%E9%95%BF%E6%8C%89%E9%94%AE%E5%85%A5.md) 【简单模拟操作】
   
 - [ ] 4-10.（栈模拟、双指针）[0844.比较含退格的字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0844.%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
