@@ -6,11 +6,11 @@ LeetCode Hot100：**[LeetCode Hot100](https://leetcode.cn/studyplan/top-100-like
 SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=341&type=341)**
 
 ## 数据结构与算法
-#### 1. 数组篇（7+9+12=28题）Timeline：7.14-7.15 ✅
-#### 2. 链表篇（9+5=14题）Timeline：7.16-7.17 ✅
-#### 3. 哈希表篇（11+1+4=16题）Timeline：7.18-7.19 ✅
-#### 4. 字符串篇（8+2=10题）Timeline：7.20-7.21✅
-#### 5. 双指针法篇（11题）Timeline：7.22
+#### 1. 数组篇（7+9+12=28题）Timeline：7.14-7.15 ✅ 7.15
+#### 2. 链表篇（9+5=14题）Timeline：7.16-7.17 ✅ 7.17
+#### 3. 哈希表篇（11+1+4=16题）Timeline：7.18-7.19 ✅ 7.19
+#### 4. 字符串篇（8+2=10题）Timeline：7.20-7.21✅ 7.21 (KMP)
+#### 5. 双指针法篇（11题）Timeline：7.22✅ reality 7.25
 ####  6. 栈与队列篇（9题）Timeline：7.24-7.25
 #### 7. 二叉树篇（35+4=39题）Timeline：7.26-7.29
 #### 8. 回溯算法篇（22+1=23题）Timeline：7.30-8.1
@@ -222,27 +222,27 @@ SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1
 
 **双指针法基本都是应用在数组，字符串与链表的题目上**
 
-- [ ] 5-1. [数组：27.移除元素](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
+- [x] 5-1. [数组：27.移除元素](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md)
       
-- [ ] 5-2. [字符串：344.反转字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [x] 5-2. [字符串：344.反转字符串](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
       
 - [ ] 5-3. [字符串：替换数字](https://programmercarl.com/kamacoder/0054.%E6%9B%BF%E6%8D%A2%E6%95%B0%E5%AD%97.html)
       
-- [ ] 5-4. [字符串：151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md)
+- [x] 5-4. [字符串：151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md)
       
-- [ ] 5-5. [链表：206.翻转链表](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+- [x] 5-5. [链表：206.翻转链表](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
       
-- [ ] 5-6. [链表：19.删除链表的倒数第 N 个结点](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0019.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+- [x] 5-6. [链表：19.删除链表的倒数第 N 个结点](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0019.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
       
-- [ ] 5-7. [链表：链表相交](https://programmercarl.com/%E9%9D%A2%E8%AF%95%E9%A2%9802.07.%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.html)
+- [x] 5-7. [链表：链表相交](https://programmercarl.com/%E9%9D%A2%E8%AF%95%E9%A2%9802.07.%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.html)
       
-- [ ] 5-8. [链表：142.环形链表](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md)
+- [x] 5-8. [链表：142.环形链表](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md)
       
-- [ ] 5-9. [双指针：15.三数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [x] 5-9. [双指针：15.三数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
       
-- [ ] 5-10. [双指针：18.四数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [x] 5-10. [双指针：18.四数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
       
-- [ ] 5-11. [双指针：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%8F%8C%E6%8C%87%E9%92%88%E6%80%BB%E7%BB%93.md)
+- [x] 5-11. [双指针：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%8F%8C%E6%8C%87%E9%92%88%E6%80%BB%E7%BB%93.md)
 
 
 ### 6. 栈与队列篇（9题）
@@ -551,7 +551,7 @@ SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1
 
 - [ ] 10-41. [动态规划：300.最长递增子序列]()
       
-- [ ] 10-42. [动态规划：674.最长连续递增序列])
+- [ ] 10-42. [动态规划：674.最长连续递增序列]()
       
 - [ ] 10-43. [动态规划：718.最长重复子数组]()
       
@@ -677,7 +677,7 @@ SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1
 ### 14. 并查集篇（2题）
 
 - [ ] 14-1.（【并查集基础题目】）[684.冗余连接]()
-- [ ] 
+
 - [ ] 14-2.（【并查集的应用】）[685.冗余连接II]()
 
 
