@@ -1,5 +1,5 @@
 # 跟着代码随想录刷LC（研二下自救）
-LeetCode Hot100：**[LeetCode Hot100](https://leetcode.cn/studyplan/top-100-liked/)**, 代码随想录：**[代码随想录](https://github.com/youngyangyang04/leetcode-master)**, 面试经典 150 题：**[面试经典 150 题](https://leetcode.cn/studyplan/top-interview-150/)**, 灵神题单
+LeetCode Hot100：**[LeetCode Hot100](https://leetcode.cn/studyplan/top-100-liked/)**, 代码随想录：**[代码随想录](https://github.com/youngyangyang04/leetcode-master)**, 面试经典 150 题：**[面试经典 150 题](https://leetcode.cn/studyplan/top-interview-150/)**, 灵茶山艾府：**[灵茶山艾府](https://leetcode.cn/circle/discuss/mOr1u6/)**
 
 剑指Offer：**[剑指Offer](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=13&type=13)**，华为机试ACM模式：**[华为机试](https://www.nowcoder.com/exam/oj/ta?page=1&tpId=37&type=37)**
 
@@ -242,28 +242,44 @@ SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1
       
 - [x] 5-10. [双指针：18.四数之和](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
       
-- [x] 5-11. [双指针：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%8F%8C%E6%8C%87%E9%92%88%E6%80%BB%E7%BB%93.md)
+- [x] 5-11. [11. 盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-100-liked)
+      
+- [x] 5-12. [双指针：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%8F%8C%E6%8C%87%E9%92%88%E6%80%BB%E7%BB%93.md)
 
 
 ### 6. 栈与队列篇（9题）
 
-- [ ] 6-1. [栈与队列：理论基础](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
+- [x] 6-1. [栈与队列：理论基础](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.md)
       
-- [ ] 6-2. [栈与队列：232.用栈实现队列](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
+- [x] 6-2. [栈与队列：232.用栈实现队列](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
       
-- [ ] 6-3. [栈与队列：225.用队列实现栈](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
+- [x] 6-3. [栈与队列：225.用队列实现栈](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
       
-- [ ] 6-4. [栈与队列：20.有效的括号](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0020.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+- [x] 6-4. [栈与队列：20.有效的括号](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0020.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
       
-- [ ] 6-5. [栈与队列：1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1047.%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
+- [x] 6-5. [栈与队列：1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1047.%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
       
-- [ ] 6-6. [栈与队列：150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md)
+- [x] 6-6. [栈与队列：150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md)
+
+**单调栈：**
+
+- [x] 6-7. [739. 每日温度](https://leetcode.cn/problems/daily-temperatures/description/?envType=study-plan-v2&envId=top-100-liked)
+
+- [x] 6-8. [394. 字符串解码](https://leetcode.cn/problems/decode-string/description/?envType=study-plan-v2&envId=top-100-liked)
+
+- [x] 6-9. [155. 最小栈](https://leetcode.cn/problems/min-stack/description/?envType=study-plan-v2&envId=top-100-liked)
+
+- [x] 6-10. [84. 柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=study-plan-v2&envId=top-100-liked)【单调栈，维护left和right，计算面积，计算面积是heights[cur]】
+
+- [x] 6-11. [42. 接雨水](https://leetcode.cn/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-100-liked)【横向单调栈，纵向双指针】
+
+**单调队列：**
+
+- [x] 6-11. [栈与队列：239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)【进队列while、出队列i和k、记录答案】
       
-- [ ] 6-7. [栈与队列：239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)
+- [x] 6-12. [栈与队列：347.前K个高频元素](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
       
-- [ ] 6-8. [栈与队列：347.前K个高频元素](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
-      
-- [ ] 6-9. [栈与队列：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E6%80%BB%E7%BB%93.md)
+- [x] 6-13. [栈与队列：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E6%80%BB%E7%BB%93.md)
 
 
 ### 7. 二叉树篇（35题 + 4题）
