@@ -277,14 +277,16 @@ SQL面试宝典：**[SQL面试宝典](https://www.nowcoder.com/exam/oj/ta?page=1
 
 - [x] 6-11. [栈与队列：239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md)【进队列while、出队列i和k、记录答案】
       
-- [x] 6-12. [栈与队列：347.前K个高频元素](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)
+- [x] 6-12. [栈与队列：347.前K个高频元素](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md)【小顶堆】
       
 - [x] 6-13. [栈与队列：总结篇！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97%E6%80%BB%E7%BB%93.md)
 
 
 ### 7. 二叉树篇（35题 + 4题）
 
-- [ ] 7-1. [关于二叉树，你该了解这些！]()
+[树题单](https://leetcode.cn/problems/binary-tree-preorder-traversal/solutions/1248333/er-cha-shu-de-qian-xu-bian-li-by-goodgoo-1yo1/)
+
+- [ ] 7-1. [关于二叉树，你该了解这些！](https://github.com/youngyangyang04/leetcode-master/blob/master/problems/二叉树理论基础.md)
       
 - [ ] 7-2. [二叉树：二叉树的递归遍历]()
       
